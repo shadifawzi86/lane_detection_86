@@ -1,1 +1,1 @@
-# line_detection
+# lane_detection_model
